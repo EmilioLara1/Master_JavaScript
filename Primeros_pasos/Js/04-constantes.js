@@ -10,3 +10,4 @@ const ip = "192.168.1.100";
 
 web = "https://bing.com";
 console.log(wen,ip);
+//prueba
